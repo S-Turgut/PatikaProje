@@ -1,5 +1,5 @@
 # PatikaProje
-## University-Class-Diagram
+## 🎓University-Class-Diagram
 ```
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 
